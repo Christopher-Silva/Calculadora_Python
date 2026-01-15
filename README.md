@@ -13,7 +13,7 @@ Funcionalidades:
 - Comando de saída amigável com '.lower()'.
 - Identifica entradas inválidas ou ilógicas (letras, símbolos aleatórios) sem travar o programa.
 
-Conceitos Aplicados: 
+Conceitos aplicados: 
 - Loops Infinitos: Uso de 'while True' com controle de interrupção via 'break'.
 - Tratamento de Exceções: Implementação de blocos 'try/except' para prevenir falhas críticas.
 - Manipulação de Strings: Uso do método '.lower()' para padronização de comandos.
